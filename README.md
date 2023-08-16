@@ -13,11 +13,13 @@ Skills: C# / OOP / SOLID / DESIGN PATTERNS / ASP.NET CORE / MSQL / MVC / GIT(GIT
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Faiqresulzade)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/Faiqresulzade//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/f_resulzadeh_/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Faiqresulzade)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiqresulzade)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Faiqresulzade)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiqresulzade&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Faiqresulzade)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Faiqresulzade)  
+
+
 
 
 
