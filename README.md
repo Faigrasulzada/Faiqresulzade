@@ -7,7 +7,7 @@ Welcome to my profile
 Skills: C# / OOP / SOLID / DESIGN PATTERNS / ASP.NET CORE / MSSQL / MVC / GIT(GIT BASH) / RESPONSIVE DESIGN / N-TIER ARCHITECTURE / UNITY / STATE MACHINE ARCHITECTURE / JS / HTML / CSS / SCSS / FIGMA / BOOTSTRAP
 
 - 🔭 I’m currently working on "Böyük Qayıdış" 
-- 🌱 I’m currently learning FrontEnd 
+- 🌱 I’m currently learning advance c# 
 - 📫 How to reach me: rsulzadefaiq@gmail.com 
 
 
