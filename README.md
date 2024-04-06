@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Faiq
 #### I am BackEnd and Game Developer
-![I am BackEnd and Game Developer](https://media.licdn.com/dms/image/D4D16AQHJlc20pZ9gkg/profile-displaybackgroundimage-shrink_350_1400/0/1692210397153?e=1712188800&v=beta&t=wUg5cSCW5SrfS-YJ6P4qQGJJCRibtmDGs1qwBXwzPD4)
+![I am BackEnd and Game Developer](https://media.licdn.com/dms/image/D4D16AQHJlc20pZ9gkg/profile-displaybackgroundimage-shrink_350_1400/0/1692210397153?e=1717632000&v=beta&t=qJhdFpxgsu02jvhpBSnw0yx9c7BrKxI_fPnsszpvyDA)
 
 Welcome to my profile
 
